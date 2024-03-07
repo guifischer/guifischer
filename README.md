@@ -8,4 +8,5 @@
 
 - 🔭 I’m currently working on multiple projects. LifeWind is my personal one.
 - 🌱 I’m currently improving my skills at mobile apps
+- 🎯 Not much of public repos on github, but let's have a chat so I can show you more stuff!
 - 😄 Pronouns: He/Him
